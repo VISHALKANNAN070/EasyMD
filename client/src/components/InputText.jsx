@@ -1,7 +1,5 @@
 const PLACEHOLDER = `Describe your project here…
 
-Example:
-
 EasyMD converts plain project descriptions into clean README.md files.
 
 Users can:
